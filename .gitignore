@@ -1,2 +1,2 @@
-alu_sim
+sim_build/
 *.vcd
